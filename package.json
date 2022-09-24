@@ -2,9 +2,8 @@
   "name": "gogoanime-api",
   "version": "1.0.0",
   "description": "GogoAnime Scrapper (Currently Using In gogoanimetv.ga)",
-  "main": "app.js",
   "scripts": {
-    "start": "node ."
+    "start": "node app.js"
   },
   "author": "shaan",
   "license": "ISC",
