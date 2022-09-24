@@ -8,7 +8,6 @@ app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("API Currently Used");
-  console.log("API Currently Used");
 });
 
 app.get("/getPopular/:page", async (req, res) => {
